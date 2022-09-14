@@ -6,7 +6,7 @@ Wednesday
 Thursday
 Friday
 Saturday
-Sunday  
+Sunday
 
 January
 February
