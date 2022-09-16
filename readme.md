@@ -9,14 +9,14 @@ Saturday.
 Sunday. 
 
 January  
-Feburary. 
-March. 
-April. 
-May. 
-June. 
-July. 
-August. 
-September. 
-October. 
-November. 
-December. 
+February.  
+March.  
+April.  
+May.  
+June.  
+July.  
+August.  
+September.  
+October.  
+November.  
+December.  
