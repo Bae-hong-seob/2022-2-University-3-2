@@ -5,12 +5,12 @@ weekdays, weekend
 Monday
 Tuesday
 Wednesday
-Thursday
+Thrusday
 Friday
 Saturday
 Sunday
 
-Jaunary
+January
 February
 March
 April
