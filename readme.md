@@ -5,7 +5,7 @@ weekdays, weekend
 Monday
 Tuesday
 Wednesday
-Thrusday
+Thursday
 Friday
 Saturday
 Sunday
